@@ -1,0 +1,34 @@
+id,song_name,energy,tempo,valence,mood,file_path,video_url
+
+1,Doron Doron,0.85,130,0.8,happy,songs/doron_doron.mp3,https://youtu.be/LV_wiOhO40Q?si=9xJLN_9qpq845QBH
+2,Kesariya,0.8,120,0.85,happy,songs/kesariya.mp3,https://youtu.be/BddP6PYo2gs?si=yuJY-7TevfvOeF1b
+3,Kar Gayi Chull,0.9,140,0.9,happy,songs/chull.mp3,https://youtu.be/NTHz9ephYTw?si=T2RqOi9adQIfAefI
+4,London Thumakda,0.88,135,0.9,happy,songs/london.mp3,https://youtu.be/udra3Mfw2oo?si=udkwgVpn7vo6KZ2C
+5,Gal Mitthi Mitthi,0.87,132,0.88,happy,songs/gal_mitthi.mp3,https://youtu.be/7oqyfTpHmZE?list=RD7oqyfTpHmZE
+6,Badtameez Dil,0.92,150,0.95,happy,songs/badtameez.mp3,https://youtu.be/II2EO3Nw4m0?si=3kLD8NxmWrJregHr
+7,Senorita,0.85,128,0.88,happy,songs/senorita.mp3,https://youtu.be/2Z0Put0teCM?si=RAm-kmMFey4vPDGZ
+8,Subha Hone Na De,0.9,145,0.92,happy,songs/subha.mp3,https://youtu.be/Y7G-tYRzwYY?si=G7EevA991vpMFboY
+9,Jai Jai Shivshankar,0.95,155,0.96,happy,songs/shivshankar.mp3,https://youtu.be/oGneAab3e88?si=VvHpiTrXEzxv05zZ
+10,Illegal Weapon,0.93,150,0.9,happy,songs/illegal.mp3,https://youtu.be/H7_yY3yr-jE?si=lffSpXpqDjfPArHP
+
+11,Rangrez,0.3,70,0.4,sad,songs/rangrez.mp3,https://youtu.be/jmpUP1MaQ9Q?si=lT4Wn2NzYXYvWwly
+12,Channa Mereya,0.25,65,0.2,sad,songs/channa.mp3,https://youtu.be/284Ov7ysmfA?si=d1ItoO8zMaMyUhvb
+13,Tum Hi Ho,0.2,60,0.1,sad,songs/tumhiho.mp3,https://youtu.be/o1RducJbUdc?si=L-F43UKZtO6ASL3W
+14,Agar Tum Saath Ho,0.28,68,0.25,sad,songs/agar.mp3,https://youtu.be/sK7riqg2mr4?si=ZiOLSTf3f0y3PSVx
+15,Phir Le Aya Dil,0.3,70,0.3,sad,songs/phir.mp3,https://youtu.be/k6BnSIs3XUQ?si=YezOBLGM6QT4yWm7
+16,Tujhe Bhula Diya,0.35,75,0.3,sad,songs/bhula.mp3,https://youtu.be/-Hb2DeHvvEg?si=fCb1PflKgkr7Szn7
+17,Jeene Bhi De,0.32,72,0.35,sad,songs/jeene.mp3,https://youtu.be/0KGP9f3duEg?si=ivGg3YMw7h7AqyNd
+18,Khairiyat,0.3,70,0.28,sad,songs/khairiyat.mp3,https://youtu.be/hoNb6HuNmU0?si=jyUCZlizDtzQtoG-
+19,paroo,0.25,65,0.2,sad,songs/beete.mp3,https://youtu.be/DxsDekHDKXo?si=hL8IXq5SORp8IIVc
+20,Kaise Hua,0.3,68,0.25,sad,songs/kaise.mp3,https://youtu.be/WWXm39leYew?si=Oq66UHpm_cAmoDZY
+
+21,Ishq Bulava,0.5,90,0.6,relax,songs/ishq_bulava.mp3,https://youtu.be/c2gSzYLJ8sY?si=Xcjad3HUeiZJljdX
+22,Raabta,0.45,85,0.65,relax,songs/raabta.mp3,https://youtu.be/zlt38OOqwDc?si=J0pltA0y7cdEqYz7
+23,Sham,0.4,80,0.6,relax,songs/sham.mp3,https://youtu.be/kl8T6tsOZJk?si=X_-sKiPl0tS9-ZU5
+24,Ilahi,0.55,95,0.7,relax,songs/ilahi.mp3,https://youtu.be/6w67NOaRe-w?si=9x9PoNTITjskh47H
+25,Kabira,0.5,88,0.65,relax,songs/kabira.mp3,https://youtu.be/jHNNMj5bNQw?si=fIU1j2XxXRFkACFA
+26,Safar,0.45,85,0.6,relax,songs/safar.mp3,https://youtu.be/LsUdoy7EH7M?si=EsUTDWwkkGTTufq7
+27,Hawayein,0.5,90,0.7,relax,songs/hawayein.mp3,https://youtu.be/cYOB941gyXI?si=QQTGxOlHPv9YzCoe
+28,Pee Loon,0.48,88,0.65,relax,songs/peeloon.mp3,https://youtu.be/WCTro3qabjE?si=sOHiUhcye48oLfGJ
+29,O Re Piya,0.42,80,0.6,relax,songs/orepiya.mp3,https://youtu.be/iv7lcUkFVSc?si=teoKBqqew7722mll
+30,Phir Se Ud Chala,0.5,92,0.7,relax,songs/udchala.mp3,https://youtu.be/2mWaqsC3U7k?si=UfbS7c_Dpe_S0wh9
